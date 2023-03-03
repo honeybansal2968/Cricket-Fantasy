@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890414737552",
+    "project_id": "cricket-league-f03e1",
+    "storage_bucket": "cricket-league-f03e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890414737552:android:03da06fb37093e42e91015",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890414737552-rgtufa26e54br1emj0qmitbn6ql4so1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7m-p56JdmRLXgF_oO8eAit6XdfWI1F3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890414737552-rgtufa26e54br1emj0qmitbn6ql4so1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
